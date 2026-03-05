@@ -8,12 +8,7 @@
   <b>Aspiring Full-Stack Developer 💻 &nbsp;|&nbsp; B.Sc. Computer Science Student 🎓 &nbsp;|&nbsp; Future Developer 🚀</b>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PratikshaShinde21&label=Profile%20Views&color=ff69b4&style=flat-square" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/PratikshaShinde21?label=Followers&style=flat-square&color=blueviolet" alt="followers"/>
-  &nbsp;
-  <b>Aspiring Full-Stack Developer 💻 &nbsp;|&nbsp; B.Sc. Computer Science Student 🎓 &nbsp;|&nbsp; Future Developer & Data Scientist 🚀</b>
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShubhamShinde16&label=Profile%20Views&color=ff69b4&style=flat-square" alt="profile views"/>
@@ -130,13 +125,6 @@ Strengths:
 ## 🌐 Let's Connect
 
 <p align="left">
-  <a href="https://github.com/PratikshaShinde21" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-PratikshaShinde21-181717?style=for-the-badge&logo=github"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/pratuu-shinde-550ab1340" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Pratiksha%20Shinde-0077B5?style=for-the-badge&logo=linkedin"/>
-&nbsp;
   <a href="https://github.com/ShubhamShinde16/ShubhamShinde16" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-ShubhamShinde16-181717?style=for-the-badge&logo=github"/>
   </a>
