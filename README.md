@@ -65,7 +65,7 @@ Strengths:
         <li>🌐 13 Indian languages supported</li>
         <li>💾 One-click audio + transcript export</li>
       </ul>
-     
+       <a href="https://github.com/ShubhamShinde16/stenoAI">
         <img src="https://img.shields.io/badge/View%20Project-StenoAI-4a7c59?style=for-the-badge&logo=github"/>
       </a>
     </td>
