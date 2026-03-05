@@ -65,10 +65,7 @@ Strengths:
         <li>🌐 13 Indian languages supported</li>
         <li>💾 One-click audio + transcript export</li>
       </ul>
-
       <a href="[https://github.com/pratikshashinde2622-droi/stenoai](https://github.com/ShubhamShinde16/stenoAI)">
-&nbsp;
-      <a href="https://github.com/pratikshashinde2622-droi/stenoai">
         <img src="https://img.shields.io/badge/View%20Project-StenoAI-4a7c59?style=for-the-badge&logo=github"/>
       </a>
     </td>
@@ -101,7 +98,7 @@ Strengths:
 <<<<<<< HEAD
   <img src="[![GitHub Streak](https://streak-stats.demolab.com?user=ShubhamShinde16)](https://git.io/streak-stats)" width="95%"/>
 &nbsp;
-  <img src="https://streak-stats.demolab.com?user=PratikshaShinde21&theme=tokyonight&hide_border=true" width="95%"/>
+  <img src="https://streak-stats.demolab.com?user=ShubhamShinde16&theme=tokyonight&hide_border=true" width="95%"/>
 </p>
 
 ---
@@ -112,7 +109,7 @@ Strengths:
 
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ShubhamShinde16" alt="GitHub Streak" /></a>
 &nbsp;
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PratikshaShinde21&theme=tokyo-night&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamShinde16&theme=tokyo-night&hide_border=true" width="95%"/>
 </p>
 
 ---
