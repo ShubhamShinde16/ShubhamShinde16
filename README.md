@@ -5,21 +5,20 @@
 
 
 <p align="center">
-<<<<<<< HEAD
   <b>Aspiring Full-Stack Developer 💻 &nbsp;|&nbsp; B.Sc. Computer Science Student 🎓 &nbsp;|&nbsp; Future Developer 🚀</b>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PratikshaShinde21&label=Profile%20Views&color=ff69b4&style=flat-square" alt="profile views"/>
   <img src="https://img.shields.io/github/followers/PratikshaShinde21?label=Followers&style=flat-square&color=blueviolet" alt="followers"/>
-=======
+  &nbsp;
   <b>Aspiring Full-Stack Developer 💻 &nbsp;|&nbsp; B.Sc. Computer Science Student 🎓 &nbsp;|&nbsp; Future Developer & Data Scientist 🚀</b>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShubhamShinde16&label=Profile%20Views&color=ff69b4&style=flat-square" alt="profile views"/>
   <img src="https://img.shields.io/github/followers/ShubhamShinde16?label=Followers&style=flat-square&color=blueviolet" alt="followers"/>
->>>>>>> 2160c89 (new update)
+
 </p>
 
 ---
@@ -34,10 +33,7 @@ Goal        : Become a Professional Full-Stack Developer
 
 Currently Learning:
   - HTML & CSS          → Building responsive UIs
-<<<<<<< HEAD
   - JavaScript          → Adding interactivity
-=======
->>>>>>> 2160c89 (new update)
   - Python              → Scripting & Data Science
   - C / C++             → Core programming
 
@@ -74,11 +70,10 @@ Strengths:
         <li>🌐 13 Indian languages supported</li>
         <li>💾 One-click audio + transcript export</li>
       </ul>
-<<<<<<< HEAD
+
       <a href="[https://github.com/pratikshashinde2622-droi/stenoai](https://github.com/ShubhamShinde16/stenoAI)">
-=======
+&nbsp;
       <a href="https://github.com/pratikshashinde2622-droi/stenoai">
->>>>>>> 2160c89 (new update)
         <img src="https://img.shields.io/badge/View%20Project-StenoAI-4a7c59?style=for-the-badge&logo=github"/>
       </a>
     </td>
@@ -110,9 +105,8 @@ Strengths:
 <p align="center">
 <<<<<<< HEAD
   <img src="[![GitHub Streak](https://streak-stats.demolab.com?user=ShubhamShinde16)](https://git.io/streak-stats)" width="95%"/>
-=======
+&nbsp;
   <img src="https://streak-stats.demolab.com?user=PratikshaShinde21&theme=tokyonight&hide_border=true" width="95%"/>
->>>>>>> 2160c89 (new update)
 </p>
 
 ---
@@ -120,11 +114,10 @@ Strengths:
 ## 🐍 Contribution Graph
 
 <p align="center">
-<<<<<<< HEAD
+
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ShubhamShinde16" alt="GitHub Streak" /></a>
-=======
+&nbsp;
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PratikshaShinde21&theme=tokyo-night&hide_border=true" width="95%"/>
->>>>>>> 2160c89 (new update)
 </p>
 
 ---
@@ -137,17 +130,15 @@ Strengths:
 ## 🌐 Let's Connect
 
 <p align="left">
-<<<<<<< HEAD
   <a href="https://github.com/PratikshaShinde21" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-PratikshaShinde21-181717?style=for-the-badge&logo=github"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/pratuu-shinde-550ab1340" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Pratiksha%20Shinde-0077B5?style=for-the-badge&logo=linkedin"/>
-=======
+&nbsp;
   <a href="https://github.com/ShubhamShinde16/ShubhamShinde16" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-ShubhamShinde16-181717?style=for-the-badge&logo=github"/>
->>>>>>> 2160c89 (new update)
   </a>
 </p>
 
@@ -164,8 +155,7 @@ Strengths:
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-<<<<<<< HEAD
+
 </p>
-=======
+
 </p>
->>>>>>> 2160c89 (new update)
